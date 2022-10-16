@@ -24,7 +24,7 @@ const Form = () => {
     <form className="container" onSubmit={handleSubmit}>
       <pre>
         {flag ? (
-          <h2 className="ui-define">
+          <h2 className="ui-define" style={{ color: "white" }}>
             Hello {inputData.name}, You've Registered Successfully
           </h2>
         ) : (
