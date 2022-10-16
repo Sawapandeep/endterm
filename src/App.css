@@ -42,7 +42,7 @@
 
 body{
   /* background-color: #b2aba9; */
-  background-image: url(bg.png);
+ background:  linear-gradient(103.22deg, #db8eff -13.86%, #0aefe9 99.55%);
 /*   background-size:auto; */
   background-repeat: no-repeat;
 
